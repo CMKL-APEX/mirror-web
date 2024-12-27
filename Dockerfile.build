@@ -1,5 +1,5 @@
 FROM ruby:3.2
-LABEL maintainer="Miao Wang <shankerwangmiao@gmail.com>"
+LABEL maintainer="Raweeroj.T <raweerojt@cmkl.ac.th>"
 
 RUN mkdir /data
 WORKDIR /data
